@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "username": "john_doe",
+      "id": "fafa"
+    },
+    {
+      "id": "f408",
+      "username": "sudheesh"
+    },
+    {
+      "id": "3208",
+      "username": "kaja"
+    },
+    {
+      "id": "b7fd",
+      "username": "sakrth"
+    },
+    {
+      "id": "3c43",
+      "username": "kumar"
+    },
+    {
+      "id": "55cb",
+      "username": "saketh"
+    },
+    {
+      "id": "66f8",
+      "username": "syed"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "1",
+      "title": "Math Quiz",
+      "questions": [
+        {
+          "text": "What is 2+2?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "text": "What is 10/2?",
+          "options": [
+            "2",
+            "5",
+            "10",
+            "20"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Science Quiz",
+      "questions": [
+        {
+          "text": "What planet is known as the Red Planet?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "text": "What is the chemical symbol for water?",
+          "options": [
+            "H2O",
+            "O2",
+            "CO2",
+            "NaCl"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Telugu",
+      "questions": [
+        {
+          "text": "HI",
+          "options": [
+            "hi",
+            "herllo"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "demo",
+      "questions": [
+        {
+          "text": "react",
+          "options": [
+            "library",
+            "framework"
+          ],
+          "correctAnswer": 1
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "username": "john_doe",
+      "quizId": 1,
+      "score": 2,
+      "answers": [
+        2,
+        3
+      ],
+      "id": "540e"
+    },
+    {
+      "id": "351e",
+      "username": "john_doe",
+      "quizId": 2,
+      "score": 2,
+      "answers": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": "52c3",
+      "username": "sudheesh",
+      "quizId": 1,
+      "score": 2,
+      "answers": [
+        2,
+        2
+      ]
+    },
+    {
+      "id": "6ccc",
+      "username": "kaja",
+      "quizId": 3,
+      "score": 0,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "id": "d3dc",
+      "username": "saketh",
+      "quizId": 1,
+      "score": 2,
+      "answers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "1603",
+      "username": "syed",
+      "quizId": 4,
+      "score": 1,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "id": "9f48",
+      "username": "syed",
+      "quizId": 2,
+      "score": 0,
+      "answers": [
+        4,
+        4
+      ]
+    }
+  ]
+}
